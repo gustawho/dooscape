@@ -1,6 +1,6 @@
 # Dooscape
 Dependencies:
-Qt >- 5.2
+Qt >= 5.2
 
 ## Build & install
 ```Bash
