@@ -7,7 +7,7 @@ Qt >- 5.2
 $ cd $srcdir
 $ qmake (Optional: PREFIX=$dir)
 $ make
-# make install
+$ make install
 ```
 
 ## Screenshots
